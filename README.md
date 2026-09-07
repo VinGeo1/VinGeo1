@@ -168,6 +168,8 @@ Currently building deeper expertise in **Kubernetes, Cloud Engineering, DevOps, 
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=VinGeo1&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&count_private=true&include_all_commits=true" alt="GitHub Stats" />
@@ -178,7 +180,7 @@ Currently building deeper expertise in **Kubernetes, Cloud Engineering, DevOps, 
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VinGeo1&theme=tokyo-night&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VinGeo1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 </div>
 
