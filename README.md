@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vineeth--george-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineeth-george/)
 [![Email](https://img.shields.io/badge/Email-george_vineeth%40yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:george_vineeth@yahoo.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91--9067384639-0EA5E9?style=for-the-badge&logo=googlevoice&logoColor=white)](tel:+919067384639)
-[![Open to Work](https://img.shields.io/badge/Open_to-Cloud_%7C_DevOps_%7C_SRE_Roles-22c55e?style=for-the-badge)](#-open-to-opportunities)
+[![Open to Work](https://img.shields.io/badge/Open_to-Devops_%7C_Infrastructure_%7C_SRE_Roles-22c55e?style=for-the-badge)](#-open-to-opportunities)
 </div>
 
 ---
