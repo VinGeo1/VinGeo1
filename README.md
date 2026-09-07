@@ -165,13 +165,6 @@ Currently building deeper expertise in **Kubernetes, Cloud Engineering, DevOps, 
 | 📚 Training | DevOps Engineer Foundation Course | — | — |
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinGeo1&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinGeo1&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📚 Currently Learning
