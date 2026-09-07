@@ -209,7 +209,7 @@ I am actively seeking roles in:
 
 *"Build it, automate it, monitor it, improve it."*
 
-**Vineeth George** · Cloud & DevOps Engineer · India
+**Vineeth George** · DevOps Engineer · India
 
 [![GitHub](https://img.shields.io/badge/View_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinGeo1)
 
