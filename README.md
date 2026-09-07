@@ -4,7 +4,7 @@
 
 **Cloud Infrastructure Engineer · Site Reliability Engineer · DevOps**
 
-*8+ years in enterprise IT · 5+ years in Citrix & Infrastructure engineer  · Currently at looking for opportunity*
+*7+ years in enterprise IT · 5+ years in Citrix & Infrastructure · Currently seeking Cloud & DevOps opportunities·*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vineeth--george-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineeth-george/)
 [![Email](https://img.shields.io/badge/Email-george_vineeth%40yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:george_vineeth@yahoo.com)
@@ -168,21 +168,9 @@ Currently building deeper expertise in **Kubernetes, Cloud Engineering, DevOps, 
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinGeo1&show_icons=true&theme=tokyonight)
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VinGeo1&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinGeo1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VinGeo1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinGeo1&layout=compact&theme=tokyonight)
 
 ---
 
