@@ -2,7 +2,7 @@
 
 # Vineeth George
 
-**Cloud Infrastructure Engineer · Site Reliability Engineer · DevOps**
+**Devops · Site Reliability Engineer .Infrstructure Engineer**
 
 *7+ years in enterprise IT · 5+ years in Citrix & Infrastructure · Currently seeking Cloud & DevOps opportunities·*
 
