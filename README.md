@@ -212,5 +212,5 @@ I am actively seeking roles in:
 **Vineeth George** · DevOps Engineer · India
 
 [![GitHub](https://img.shields.io/badge/View_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinGeo1)
-
+[![GitLab](https://img.shields.io/badge/View_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vineet20h)
 </div>
